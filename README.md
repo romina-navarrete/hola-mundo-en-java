@@ -1,10 +1,10 @@
 # hola-mundo-en-java
 
-## Descripción
+## DescripciÃ³n
 
 Programa "hola mundo" en Java
 
-## Compilación y ejecución del programa
+## CompilaciÃ³n y ejecuciÃ³n del programa
 
 Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
 
