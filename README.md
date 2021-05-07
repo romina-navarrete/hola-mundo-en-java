@@ -4,7 +4,7 @@
 
 Programa "hola mundo" en Java
 
-## Compilaci?n y ejecución del programa
+## Compilación y ejecución del programa
 
 Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
 
